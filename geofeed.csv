@@ -27,3 +27,10 @@
 2a14:7583:b00::/40,IE,IE-D,Dublin,D12
 2a14:7583:d00::/40,IE,IE-D,Dublin,D12
 2a14:7583:f00::/40,IE,IE-D,Dublin,D12
+2a14:7580:cf00::/48,AD,AD-07,Andorra la Vella,AD500
+2a14:7580:cf01::/48,AE,AE-DU,Dubai,
+2a14:7580:cf02::/48,AF,AF-KAB,Kabul,1007
+2a14:7580:cf03::/48,AG,AG-04,Saint John,
+2a14:7580:cf04::/48,AI,,The Valley,2640
+2a14:7580:cf05::/48,AL,AL-11,Tirana,1040
+2a14:7580:cf06::/48,AM,AM-ER,Yerevan,0010
