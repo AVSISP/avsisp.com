@@ -1,4 +1,6 @@
 #AVSISP
+195.144.24.0/24,MK,MK-804,Skopje,1000
+2a14:7580:c300::/40,MK,MK-804,Skopje,1000
 64.190.237.0/24,US,US-WA,Seattle,98105
 208.70.218.0/24,NL,NL-NH,Amsterdam,1013CX
 2a14:7580:c000::/40,NL,NL-NH,Amsterdam,1013CX
@@ -57,7 +59,7 @@
 2a14:7580:cf08::/48,AQ,,McMurdo,
 2a14:7580:cf09::/48,AR,AR-A,Salta,
 2a14:7580:cf0a::/48,AS,,Pago Pago,
-2a14:7580:cf0b::/48,AT,AT-09,Vienna,
+2a14:7580:cf0b::/48,AT,AT-9,Vienna,
 2a14:7580:cf0c::/48,AU,AU-ACT,Canberra,
 2a14:7580:cf0d::/48,AW,,Oranjestad,
 2a14:7580:cf0e::/48,AX,,Mariehamn,
@@ -68,7 +70,7 @@
 2a14:7580:cf13::/48,BE,BE-BRU,Brussels,
 2a14:7580:cf14::/48,BF,BF-03,Ouagadougou,
 2a14:7580:cf15::/48,BG,BG-22,Sofia,
-2a14:7580:cf16::/48,BH,,,
+2a14:7580:cf16::/48,BH,,Al Nuwaidrat,
 2a14:7580:cf17::/48,BI,,,
 2a14:7580:cf18::/48,BJ,,,
 2a14:7580:cf19::/48,BL,,,
@@ -122,7 +124,7 @@
 2a14:7580:cf49::/48,FO,,,
 2a14:7580:cf4a::/48,FR,,Paris,
 2a14:7580:cf4b::/48,GA,,,
-2a14:7580:cf4c::/48,GB,,,
+2a14:7580:cf4c::/48,GB,,London,
 2a14:7580:cf4d::/48,GD,,,
 2a14:7580:cf4e::/48,GE,,,
 2a14:7580:cf4f::/48,GF,,,
@@ -236,62 +238,62 @@
 2a14:7580:cfbb::/48,RE,,,
 2a14:7580:cfbc::/48,RO,,,
 2a14:7580:cfbd::/48,RS,,,
-2a14:7580:cfbe::/48,RU,,,
-2a14:7580:cfbf::/48,RW,,,
+2a14:7580:cfbe::/48,RU,RU-MOS,Domodedovo,
+2a14:7580:cfbf::/48,RW,RW-01,Kigali,
 2a14:7580:cfc0::/48,SA,SA-14,Khamis Mushayt,
 2a14:7580:cfc1::/48,SB,SB-CT,Honiara,
 2a14:7580:cfc2::/48,SC,SC-16,Victoria,
-2a14:7580:cfc3::/48,SD,SD-KH,Omdurman,
-2a14:7580:cfc4::/48,SE,SE-W,Borlange,
-2a14:7580:cfc5::/48,SG,,Singapore,
-2a14:7580:cfc6::/48,SH,,,
-2a14:7580:cfc7::/48,SI,SI-61,Ljubljana,
-2a14:7580:cfc8::/48,SJ,,,
-2a14:7580:cfc9::/48,SK,SK-BL,Bratislava,
+2a14:7580:cfc3::/48,SD,SD-KH,Omdurman,13311
+2a14:7580:cfc4::/48,SE,SE-W,Borlange,78462
+2a14:7580:cfc5::/48,SG,SG-01,Singapore,239923
+2a14:7580:cfc6::/48,SH,SH-TA,Tristan da Cunha,TDCU1ZZ
+2a14:7580:cfc7::/48,SI,SI-061,Ljubljana,1000
+2a14:7580:cfc8::/48,SJ,,Longyearbyen,9171
+2a14:7580:cfc9::/48,SK,SK-BL,Bratislava,81102
 2a14:7580:cfca::/48,SL,SL-W,Freetown,
-2a14:7580:cfcb::/48,SM,,San Marino,
+2a14:7580:cfcb::/48,SM,SM-07,San Marino,47890
 2a14:7580:cfcc::/48,SN,SN-DK,Dakar,
 2a14:7580:cfcd::/48,SO,SO-BN,Mogadishu,
 2a14:7580:cfce::/48,SR,SR-PM,Paramaribo,
 2a14:7580:cfcf::/48,SS,SS-EC,Juba,
-2a14:7580:cfd0::/48,ST,,Sao Tome,
+2a14:7580:cfd0::/48,ST,ST-01,Sao Tome,
 2a14:7580:cfd1::/48,SV,SV-US,Usulutan,
 2a14:7580:cfd2::/48,SX,,Philipsburg,
 2a14:7580:cfd3::/48,SY,SY-DI,Damascus,
 2a14:7580:cfd4::/48,SZ,SZ-MA,Manzini,
 2a14:7580:cfd5::/48,TC,,Grand Turk,
-2a14:7580:cfd6::/48,TD,,,
-2a14:7580:cfd7::/48,TF,,,
+2a14:7580:cfd6::/48,TD,TD-ND,N'Djamena,
+2a14:7580:cfd7::/48,TF,,Port-aux-Français,98400
 2a14:7580:cfd8::/48,TG,TG-M,Lome,
 2a14:7580:cfd9::/48,TH,TH-10,Bangkok,
 2a14:7580:cfda::/48,TJ,TJ-DU,Dushanbe,
 2a14:7580:cfdb::/48,TK,,Fakaofu Village,
 2a14:7580:cfdc::/48,TL,TL-DI,Dili,
-2a14:7580:cfdd::/48,TM,TM-A,Ashgabat,
-2a14:7580:cfde::/48,TN,TN-11,Tunis,
+2a14:7580:cfdd::/48,TM,TM-A,Ashgabat,744000
+2a14:7580:cfde::/48,TN,TN-11,Tunis,1124
 2a14:7580:cfdf::/48,TO,TO-04,Nuku alofa,
-2a14:7580:cfe0::/48,TR,TR-34,Kocasinan,
-2a14:7580:cfe1::/48,TT,,Port of Spain,
-2a14:7580:cfe2::/48,TV,TV-FUN,Funafuti,
-2a14:7580:cfe3::/48,TW,TW-TPE,Taipei,
-2a14:7580:cfe4::/48,TZ,,Dar es Salaam,
-2a14:7580:cfe5::/48,UA,,,
-2a14:7580:cfe6::/48,UG,,,
-2a14:7580:cfe7::/48,UM,,,
-2a14:7580:cfe8::/48,US,US-NY,New York,
-2a14:7580:cfe9::/48,UY,,,
-2a14:7580:cfea::/48,UZ,,,
-2a14:7580:cfeb::/48,VA,,,
-2a14:7580:cfec::/48,VC,,,
-2a14:7580:cfed::/48,VE,,,
-2a14:7580:cfee::/48,VG,,,
-2a14:7580:cfef::/48,VI,,,
-2a14:7580:cff0::/48,VN,,,
-2a14:7580:cff1::/48,VU,,,
-2a14:7580:cff2::/48,WF,,,
-2a14:7580:cff3::/48,WS,,,
-2a14:7580:cff4::/48,YE,,,
-2a14:7580:cff5::/48,YT,,,
-2a14:7580:cff6::/48,ZA,,,
-2a14:7580:cff7::/48,ZM,,,
-2a14:7580:cff8::/48,ZW,,,
+2a14:7580:cfe0::/48,TR,TR-34,Kocasinan,38010
+2a14:7580:cfe1::/48,TT,TT-POS,Port of Spain,100498
+2a14:7580:cfe2::/48,TV,TV-FUN,Funafuti,TUV150
+2a14:7580:cfe3::/48,TW,TW-TPE,Taipei,100
+2a14:7580:cfe4::/48,TZ,TZ-02,Dar es Salaam,11101
+2a14:7580:cfe5::/48,UA,UA-30,Kyiv,01001
+2a14:7580:cfe6::/48,UG,UG-102,Kampala,25601
+2a14:7580:cfe7::/48,UM,UM-79,Wake Island,96898
+2a14:7580:cfe8::/48,US,US-NY,New York,10282
+2a14:7580:cfe9::/48,UY,UY-MO,Montevideo,
+2a14:7580:cfea::/48,UZ,UZ-AN,Andijon,
+2a14:7580:cfeb::/48,VA,,Vatican City,00120
+2a14:7580:cfec::/48,VC,,Kingstown,
+2a14:7580:cfed::/48,VE,VE-A,Caracas,
+2a14:7580:cfee::/48,VG,,East End,
+2a14:7580:cfef::/48,VI,,Saint Thomas,
+2a14:7580:cff0::/48,VN,VN-HN,Hanoi,
+2a14:7580:cff1::/48,VU,VU-SEE,Port-Vila,
+2a14:7580:cff2::/48,WF,,Mata Utu,
+2a14:7580:cff3::/48,WS,WS-TU,Apia,
+2a14:7580:cff4::/48,YE,YE-AD,Aden,
+2a14:7580:cff5::/48,YT,,Mamoudzou,
+2a14:7580:cff6::/48,ZA,ZA-WC,Cape Town,8001
+2a14:7580:cff7::/48,ZM,ZM-09,Lusaka,
+2a14:7580:cff8::/48,ZW,ZW-HA,Harare,
